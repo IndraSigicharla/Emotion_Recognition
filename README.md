@@ -1,4 +1,4 @@
-# Emotion_Recognition
+# Emotion Recognition
 
 Object Detection using Haar cascade classifiers is an effective object detection method. It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images. The algorithm needs a lot of positive images (images of faces) and negative images (images without faces) to train the classifier.  
 
